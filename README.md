@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, my name is Maltsev Lev</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdtdXk1emx2bHdhOGlyd3YxaW1udDY5cWpsbzNrZG4xaWhhcmZ1eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xUA7aW0NsZaWrxkEIE/giphy.gif" width="120px"/><br>
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, my name is Maltsev Lev!</h1>
 
 <h3>🎓 Education</h3>
 <p align="left">5th year of <b>MIPT</b> (Phystech School of Radio Engineering and Computer Technology)</p>
