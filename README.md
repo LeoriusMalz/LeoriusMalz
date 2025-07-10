@@ -116,7 +116,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
   </picture>
 
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoriusmalz&amp;layout=donut&theme=dark&card_width=200&hide_title=true" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoriusmalz&amp&layout=donut&theme=dark&card_width=200&hide_title=true" alt="Top Langs">
   </picture>
 </div>
 
