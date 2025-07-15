@@ -33,6 +33,12 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
   <li><b>(FEFU)</b> Interactive SQL Simulator <a href="/courses/fefu-sql.pdf">[link]</a></li>
 </ul>
 
+<h3>📜 Certificates</h3>
+<ul>
+  <li><b>(The Ministry of Digital Development)</b> <a href="/certificates/ml-mincyifra.pdf">ML</a></li>
+</ul>
+
+
 <h3 align="center">Contacts:</h3>
 <div align="center">
   <a href="http://t.me/leoriusmalz"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram"></a>
