@@ -23,7 +23,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 <h3>🧠 Additional education</h3>
 <ul>
-  <li>Deap Learning School <a href="/courses/dls.pdf">[link]</a></li>
+  <li>Deep Learning School <a href="/courses/dls.pdf">[link]</a></li>
   <li><b>(MIPT)</b> The professional retraining program "Advanced Machine Learning Methods"</li>
   <li><b>(Yandex Practicum)</b> The basics of working with Git</li>
   <li><b>(Yandex Practicum)</b> Fundamentals of Statistics and A/B-testing</li>
