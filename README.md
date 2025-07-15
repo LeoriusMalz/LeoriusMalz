@@ -23,19 +23,19 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 <h3>🧠 Additional education</h3>
 <ul>
-  <li>Deep Learning School <a href="/courses/dls.pdf">[link]</a></li>
+  <li>Deep Learning School <a href="https://github.com/LeoriusMalz/LeoriusMalz/tree/main/courses/dls.pdf">[link]</a></li>
   <li><b>(MIPT)</b> The professional retraining program "Advanced Machine Learning Methods"</li>
   <li><b>(Yandex Practicum)</b> The basics of working with Git</li>
   <li><b>(Yandex Practicum)</b> Fundamentals of Statistics and A/B-testing</li>
   <li><b>(Yandex Practicum)</b> Fundamentals of working with Databases and SQL</li>
-  <li><b>(Bioinformatics Institute)</b> Python Programming <a href="/courses/bioinf-python.pdf">[link]</a></li>
-  <li><b>(Bioinformatics Institute)</b> Basics of Statistics <a href="/courses/bioinf-statistics.pdf">[link]</a></li>
-  <li><b>(FEFU)</b> Interactive SQL Simulator <a href="/courses/fefu-sql.pdf">[link]</a></li>
+  <li><b>(Bioinformatics Institute)</b> Python Programming <a href="https://github.com/LeoriusMalz/LeoriusMalz/tree/main/courses/bioinf-python.pdf">[link]</a></li>
+  <li><b>(Bioinformatics Institute)</b> Basics of Statistics <a href="https://github.com/LeoriusMalz/LeoriusMalz/tree/main/courses/bioinf-statistics.pdf">[link]</a></li>
+  <li><b>(FEFU)</b> Interactive SQL Simulator <a href="https://github.com/LeoriusMalz/LeoriusMalz/tree/main/courses/fefu-sql.pdf">[link]</a></li>
 </ul>
 
 <h3>📜 Certificates</h3>
 <ul>
-  <li><b>(The Ministry of Digital Development)</b> <a href="/certificates/ml-mincyifra.pdf">ML</a></li>
+  <li><b>(The Ministry of Digital Development)</b> <a href="https://github.com/LeoriusMalz/LeoriusMalz/tree/main/certificates/ml-mincyifra.pdf">ML</a></li>
 </ul>
 
 
