@@ -36,6 +36,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <h3>📜 Certificates</h3>
 <ul>
   <li><b>(The Ministry of Digital Development)</b> <a href="https://github.com/LeoriusMalz/LeoriusMalz/tree/main/certificates/ml-mincyifra.pdf">ML</a></li>
+  <li><b>(Yandex Academy)</b> <a href="https://github.com/LeoriusMalz/LeoriusMalz/blob/main/certificates/algo-yandex.pdf">Algorithms training</a></li>
 </ul>
 
 
