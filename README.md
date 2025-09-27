@@ -5,8 +5,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <p align="left">5th year of <b>MIPT</b> (Phystech School of Radio Engineering and Computer Technology)</p>
 
 <h3>💻 Job status</h3>
-<p align="left">Currently, I'm actively <b><i>looking for a job</i></b> 🔎 (30-40 hours per week)</p>
-<p align="left">Therefore, I will be very happy to accept the offer to work! Contacts on the left or lower 😉</p>
+<p align="left">Currently, I'm working in <b>VK</b> <i>(VK Video)</i>, Junior programmer-researcher, Machine Learning</p>
 
 <h3>⌚ What I'm doing now (out of job...)</h3>
 <ul>
